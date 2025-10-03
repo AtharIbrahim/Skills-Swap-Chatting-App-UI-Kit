@@ -11,7 +11,7 @@ A Flutter-based UI kit for building skill exchange apps with clean, reusable, an
 - 📱 **Responsive Design**: Fully optimized for all screen sizes.
 - 🧩 **Reusable Components**: Modular widgets for faster development.
 - 🎨 **Customizable**: Easily tweak colors, typography, and layouts to suit your brand.
-- ⚡ **Dart Files Included**: Prebuilt screens and widgets ready for integration.
+- ⚡ **Dart Files Included**: Prebuilt screens and widgets ready for integration. 
 
 
 ---
