@@ -1,7 +1,7 @@
 # Skills Swap & Chatting App UI-Kit
 
 Welcome to the Skill Swap & Chatting App UI Kit repository! This Flutter-based UI Kit is designed to streamline your app development process by providing modern, reusable, and responsive UI components for building a skill exchange platform.
-A Flutter-based UI kit for building skill exchange apps with clean, reusable, and responsive Dart components.
+A Flutter-based UI kit for building skill exchange apps with clean, reusable, and responsive Dart components. 
 
 ---
 
